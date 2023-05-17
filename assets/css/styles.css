@@ -332,10 +332,12 @@ img {
 
 .skills__js {
   width: 65%;
+  color: var(--first-color);
 }
 
-.skills__ux {
-  width: 85%;
+.skills__flutter {
+  width: 80%;
+
 }
 
 /* .skills__flutter {
@@ -449,7 +451,7 @@ img {
     text-align: initial;
   }
   .skills__container {
-    grid-template-columns: .7fr;
+    grid-template-columns: .10fr;
     justify-content: center;
     column-gap: 1rem;
   }
